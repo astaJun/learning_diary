@@ -1,0 +1,17 @@
+{
+  "name": "LearningDiary",
+  "version": "1.0.0",
+  "description": "学习日记",
+  "main": "index.js",
+  "author": "Jun",
+  "license": "ApacheLicene2.0",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.45"
+  }
+}
